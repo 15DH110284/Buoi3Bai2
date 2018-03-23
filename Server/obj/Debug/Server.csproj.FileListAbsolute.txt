@@ -1,0 +1,13 @@
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\bin\Debug\Server.exe.config
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\bin\Debug\Server.exe
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\bin\Debug\Server.pdb
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\obj\Debug\Server.exe
+D:\Năm 3\LTM\LTM-Buoi3bai2\Server\obj\Debug\Server.pdb
+D:\LTM-Buoi3bai2\Server\bin\Debug\Server.exe.config
+D:\LTM-Buoi3bai2\Server\bin\Debug\Server.exe
+D:\LTM-Buoi3bai2\Server\bin\Debug\Server.pdb
+D:\LTM-Buoi3bai2\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\LTM-Buoi3bai2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LTM-Buoi3bai2\Server\obj\Debug\Server.exe
+D:\LTM-Buoi3bai2\Server\obj\Debug\Server.pdb

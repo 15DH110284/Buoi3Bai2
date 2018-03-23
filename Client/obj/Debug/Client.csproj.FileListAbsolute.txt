@@ -1,0 +1,10 @@
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\bin\Debug\Client.exe.config
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\bin\Debug\Client.exe
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\bin\Debug\Client.pdb
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.Form1.resources
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.exe
+D:\Năm 3\LTM\LTM-Buoi3bai2\Client\obj\Debug\Client.pdb
